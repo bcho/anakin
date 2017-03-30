@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "hubot": "^2.19.0",
-    "hubot-bearychat": "^0.4.2"
+    "hubot-bearychat": "^0.4.2",
+    "query-doc": "^0.0.1"
   }
 }
